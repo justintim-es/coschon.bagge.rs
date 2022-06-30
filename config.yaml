@@ -1,0 +1,17 @@
+frontend: 'http://localhost:4200'
+gladiatorsurl: 'http://136.244.87.59'
+smsApiKey: 'c725fba3e0eb926a1e4318ab3c6dd816-202296cb-0189-441f-b703-525ba59c27d3'
+averageBackend: 'http://localhost:3000'
+confirmations: 2  
+inner: 'http://localhost:8888'
+me: '04b370ef99de896cf1d63e3e8a31a850fb7cd68b5be5727c15ecea881febb502f73d1e40da170341d8e050f7a37c3700ec45f371ff3c1b52b11b0ec93e04edd73d'  
+jaguar: '8dsneydjaw6'
+database:
+  username: 'noonecious'
+  password: 'password'
+  host: 'localhost'
+  port: 5432
+  name: 'baggers'
+smtp:   
+  username: 'baggersapp@gmail.com'
+  password: 'gifxwojbboafaoxy'
