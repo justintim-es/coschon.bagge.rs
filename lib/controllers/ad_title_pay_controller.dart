@@ -3,7 +3,6 @@ import 'package:coschon/models/ad_title.dart';
 import 'package:coschon/models/ad_title_transaction.dart';
 import 'package:coschon/models/config.dart';
 import 'package:coschon/models/transaction.dart';
-import 'package:coschon/models/transaction_status.dart';
 import 'package:coschon/models/user.dart';
 import 'package:dio/dio.dart' as d;
 class AdTitlePayController extends ResourceController {
